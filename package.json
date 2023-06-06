@@ -12,6 +12,8 @@
     "publish": "yarn publish --access public",
     "test": "jest --coverage"
   },
+  "repository": "https://github.com/AntiHero/nestjs-paypal",
+  "homepage": "https://github.com/AntiHero/nestjs-paypal#readme",
   "dependencies": {
     "@paypal/checkout-server-sdk": "^1.0.3"
   },
