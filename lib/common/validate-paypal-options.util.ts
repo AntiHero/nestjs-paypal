@@ -13,6 +13,6 @@ export const validatePaypalOptions = (options: PaypalOptions) => {
     typeof options.live !== 'undefined' &&
     typeof options.live !== 'boolean'
   ) {
-    throw new Error('live option should be boolean.');
+    throw new Error('live option should be a boolean type.');
   }
 };
