@@ -1,6 +1,6 @@
 # source
 lib
-tests
+test
 yarn.lock
 node_modules
 tsconfig.json
