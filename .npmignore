@@ -1,0 +1,15 @@
+# source
+lib
+tests
+yarn.lock
+node_modules
+tsconfig.json
+tsconfig.build.json
+.prettierrc
+
+# github
+.github
+
+# misc
+.eslintignore
+.eslintrc.js
