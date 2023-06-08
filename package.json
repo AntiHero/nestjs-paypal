@@ -1,6 +1,6 @@
 {
   "name": "nestjs-paypal",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Injectable PayPal client for Nest framework.",
   "author": "Aleksandr Schemelev",
   "license": "MIT",
@@ -12,7 +12,11 @@
     "publish": "yarn publish --access public",
     "test": "jest --coverage"
   },
-  "keywords": ["nestjs", "paypal", "dynamic module"],
+  "keywords": [
+    "nestjs",
+    "paypal",
+    "dynamic module"
+  ],
   "repository": "https://github.com/AntiHero/nestjs-paypal",
   "homepage": "https://github.com/AntiHero/nestjs-paypal#readme",
   "dependencies": {
