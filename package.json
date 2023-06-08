@@ -12,6 +12,7 @@
     "publish": "yarn publish --access public",
     "test": "jest --coverage"
   },
+  "keywords": ["nestjs", "paypal", "dynamic module"],
   "repository": "https://github.com/AntiHero/nestjs-paypal",
   "homepage": "https://github.com/AntiHero/nestjs-paypal#readme",
   "dependencies": {
