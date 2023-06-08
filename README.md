@@ -9,7 +9,7 @@ PayPal client for [Nest](https://github.com/nestjs/nest) framework.
 ## Installation
 
 ```bash
-$ yarn install nestjs-paypal
+$ yarn add nestjs-paypal
 ```
 
 ## Available options
